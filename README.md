@@ -1,5 +1,5 @@
 # webpack-boilerplate-react
-
+![Repository logo](https://github.com/oL-web/webpack-boilerplate-react/blob/master/src/favicon.png?raw=true)
 After using the Parcel bundler for nearly every project I decided to give webpack a try. This is a boilerplate supporting all the coolest functionalities of Webpack 4 shown in its documentation as well as React + Redux + Jest + PWA support.
 
 * * *
@@ -8,12 +8,12 @@ After using the Parcel bundler for nearly every project I decided to give webpac
 
 Download or clone this repository so you can run the following commands:
 
-`npm install`
-`npm run dev` - starts a dev server on localhost:1234 
-`npm run build` - builds and optimized bundle
-`npm run serve` - serves ./dist on your local network
-`npm run test` - runs Jest for testing
-`npm run testwatch` - like above but in watch mode
+`npm install`  
+`npm run dev` - starts a dev server on localhost:1234  
+`npm run build` - builds and optimized bundle  
+`npm run serve` - serves ./dist on your local network  
+`npm run test` - runs Jest for testing  
+`npm run testwatch` - like above but in watch mode  
 
 * * *
 
